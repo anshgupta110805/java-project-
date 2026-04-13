@@ -68,7 +68,6 @@ java min/
 ---
 
 ## ✨ Developed by
-**Ansh Gupta**  
-*Passionate Java Developer*
+**Ansh Gupta**
 
 ---
