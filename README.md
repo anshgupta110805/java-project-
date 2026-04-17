@@ -43,8 +43,8 @@ java min/
 1. **Prerequisites**: Make sure you have [JDK](https://www.oracle.com/java/technologies/downloads/) installed.
 2. **Clone the Repo**:
    ```bash
-   git clone https://github.com/anshgupta110805/mini-bank-system-.git
-   cd mini-bank-system-
+   git clone https://github.com/anshgupta110805/java-project-.git
+   cd java-project-
    ```
 3. **Compile**:
    ```bash
@@ -71,3 +71,4 @@ java min/
 **Ansh Gupta**
 
 ---
+
