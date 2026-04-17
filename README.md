@@ -68,7 +68,11 @@ java min/
 ---
 
 ## ✨ Developed by
-**Ansh Gupta**
+
+- **Ansh Gupta**
+- **Piyush Grover**
+- **Kanak Panwar**
 
 ---
+
 
